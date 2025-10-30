@@ -63,15 +63,13 @@ Framework: Django (Python)
 
 Database: SQLite
 
-Frontend: HTML, CSS, Bootstrap
+Frontend: HTML
 
 Authentication: Django AbstractUser (custom)
 
 UUIDs: for unique user and profile IDs
 
 Signals: post_save decorator from django.dispatch
-
-Deployment: (Add your deployment platform – Render, PythonAnywhere, etc.)
 
 ### 🧱 Project Architecture
 
